@@ -1,10 +1,9 @@
 # Wardial
+![](https://github.com/ypei23/wardial/workflows/task1/badge.svg)
+![](https://github.com/ypei23/wardial/workflows/task1/badge.svg)
 
-![](https://github.com/mikeizbicki/wardial/workflows/task1/badge.svg)
-![](https://github.com/mikeizbicki/wardial/workflows/task2/badge.svg)
 
-
-**Learning Objectives:**
+**learning Objectives:**
 
 1. Learn to use and write async functions
 1. Increase understanding of internet architecture
